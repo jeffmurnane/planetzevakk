@@ -19,13 +19,13 @@ Currently seeking literary representation.
 
 > Annie slid slowly closer to the chimney, but when the flash of headlights illuminated the front of the house, she froze. A car door slammed shut. Annie leaned forward and slid four feet down the roof incline and slammed into the chimney, she quickly pulled the book into her lap when a light from Kyle’s house lit up the roof.
 > 
-She peeked around the chimney and saw the blinds in Kyle’s bathroom rising. Annie jerked her head back behind the chimney, her muscles tightened as she straightened her back against the brick chimney, and she tried not to make a sound.
+> She peeked around the chimney and saw the blinds in Kyle’s bathroom rising. Annie jerked her head back behind the chimney, her muscles tightened as she straightened her back against the brick chimney, and she tried not to make a sound.
 
-The sound of Kyle’s window opening sent chills down her spine. She knew that he was thirty feet away and in a different house, but it felt as if he were breathing down her neck. She froze behind the chimney, not wanting to shift her weight or do anything that would alert her pursuer. Annie was always good at reading people and situations, but Kyle had perplexed her, she couldn’t get a read on him, and it bothered her, confused her, even frightened her.
+> The sound of Kyle’s window opening sent chills down her spine. She knew that he was thirty feet away and in a different house, but it felt as if he were breathing down her neck. She froze behind the chimney, not wanting to shift her weight or do anything that would alert her pursuer. Annie was always good at reading people and situations, but Kyle had perplexed her, she couldn’t get a read on him, and it bothered her, confused her, even frightened her.
 
-Her muscles continued to tighten, her leg started to cramp, but she didn’t move. It felt to Annie as if an eternity had passed. Then the sound of the window closing filled the air which was soon followed by the light going out. Annie relaxed and let out a heavy sigh. She waited a few moments until she was sure the coast was clear, then stood up slightly while still hunched over and started the long four foot walk up the incline, back to the open bathroom window, when she realized that Kyle would’ve seen the open window. 
+> Her muscles continued to tighten, her leg started to cramp, but she didn’t move. It felt to Annie as if an eternity had passed. Then the sound of the window closing filled the air which was soon followed by the light going out. Annie relaxed and let out a heavy sigh. She waited a few moments until she was sure the coast was clear, then stood up slightly while still hunched over and started the long four foot walk up the incline, back to the open bathroom window, when she realized that Kyle would’ve seen the open window. 
 
-Gripped with fear, panic set in but before she could turn around, that creepy, familiar voice appeared from Kyle’s window behind her. “There you are.”
+> Gripped with fear, panic set in but before she could turn around, that creepy, familiar voice appeared from Kyle’s window behind her. “There you are.”
 Without even turning to see Kyle watching her, Annie ran up the roof and dove into the bathroom through the open window and slammed the window shut behind her. She quickly glanced back towards Kyle’s house and saw the cracked open window in his bathroom. His bathroom light was off, and there was no sign of Kyle.
 
 
