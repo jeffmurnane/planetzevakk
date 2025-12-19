@@ -5,7 +5,7 @@
 <div style="text-align: center; margin: 50px 0;">
   <img src="https://raw.githubusercontent.com/jeffmurnane/planetzevakk/main/Planet%20Zevakk%20Cover%20draft.png" 
        alt="Planet Zevakk Book Cover" 
-       style="max-width: 100%; width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+       style="max-width: 100%; width: 200px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </div>
 
 ## Story
