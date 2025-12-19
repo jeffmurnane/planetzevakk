@@ -2,8 +2,7 @@
 
 **The Alien Discovery That Unlocks Our Hidden Past. by Jeff Murnane**
 
-![Book Cover or Teaser Image](https://via.placeholder.com/800x1200?text=Planet+Zevakk+Cover)  
-*(Replace the link above with your actual cover mockup URL, or upload an image file to the repo and link it like `cover.jpg`)*
+![Book Cover or Teaser Image](src=https://github.com/jeffmurnane/planetzevakk/blob/main/Planet%20Zevakk%20Cover%20draft.png)  
 
 ## Story
 
