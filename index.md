@@ -2,7 +2,7 @@
 
 **The Alien Discovery That Unlocks Our Hidden Past. by Jeff Murnane**
 
-![Planet Zevakk Book Cover](https://raw.githubusercontent.com/jeffmurnane/planetzevakk/main/Planet%20Zevakk%20Cover%20draft.png) 
+![Planet Zevakk Book Cover](https://raw.githubusercontent.com/jeffmurnane/planetzevakk/main/Planet%20Zevakk%20Cover%20draft.png)style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
 
 ## Story
