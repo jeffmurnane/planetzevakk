@@ -10,7 +10,7 @@
       padding: 0;
       font-family: Arial, sans-serif;
       color: #ffffff; /* White text for contrast on dark backgrounds */
-      background: url('https://images2.alphacoders.com/468/468742.jpg') no-repeat center center fixed;
+      background: url('https://wallpapers.com/images/hd/deep-space-hd-nmbszd3rb2vdayv8.jpg') no-repeat center center fixed;
       background-size: cover;
       min-height: 100vh;
     }
