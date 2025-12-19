@@ -37,6 +37,11 @@ Without even turning to see Kyle watching her, Annie ran up the roof and dove in
 Jeff Murnane never set out to write a novel. It started with bedtime stories for his young sons; tales that kept changing with each telling until they demanded he write them down. What began as scribbled adventures to satisfy two sleepy, yet persistent boys evolved into a lifelong love of storytelling. Years later, those same sons (now in their twenties) became the reason he finally finished his debut novel, Planet Zevakk. A science fiction fan since childhood, Jeff brings his creativity, curiosity and optimism to everything he creates. He lives in Omaha, Nebraska with his wife Kim, where he's always dreaming up his next story.
 
 ![Your Photo](https://via.placeholder.com/300x300?text=Author+Photo)
+<div style="text-align: center; margin: 50px 0;">
+  <img src="https://raw.githubusercontent.com/jeffmurnane/planetzevakk/main/casual.jpg" 
+       alt="Author" 
+       style="max-width: 100%; width: 200px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+</div>
 
 ## Stay Updated
 
